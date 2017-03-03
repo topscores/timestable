@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-:w3x3=3
-=======
+w3x3=3
 3x3=3
->>>>>>> 605edc30936629554a51611b0f6f6fac53f23435
+3*3*3*6*3ajskdasdjakjdsjdskajadsladsljjlkads
+
